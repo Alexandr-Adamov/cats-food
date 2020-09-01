@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/cats-food/static/css/main.1b38fef1.chunk.css",
+    "main.js": "/cats-food/static/js/main.49855743.chunk.js",
+    "main.js.map": "/cats-food/static/js/main.49855743.chunk.js.map",
+    "runtime-main.js": "/cats-food/static/js/runtime-main.dc5dc408.js",
+    "runtime-main.js.map": "/cats-food/static/js/runtime-main.dc5dc408.js.map",
+    "static/js/2.05dee26e.chunk.js": "/cats-food/static/js/2.05dee26e.chunk.js",
+    "static/js/2.05dee26e.chunk.js.map": "/cats-food/static/js/2.05dee26e.chunk.js.map",
+    "index.html": "/cats-food/index.html",
+    "precache-manifest.bc53b9c1a29108bd0e9120280a8ee7dc.js": "/cats-food/precache-manifest.bc53b9c1a29108bd0e9120280a8ee7dc.js",
+    "service-worker.js": "/cats-food/service-worker.js",
+    "static/css/main.1b38fef1.chunk.css.map": "/cats-food/static/css/main.1b38fef1.chunk.css.map",
+    "static/js/2.05dee26e.chunk.js.LICENSE.txt": "/cats-food/static/js/2.05dee26e.chunk.js.LICENSE.txt",
+    "static/media/page.module.css": "/cats-food/static/media/941afad4465c7704abe8996ef0f495742e3963a5.79d68011.png",
+    "static/media/blue.png": "/cats-food/static/media/blue.d727aee2.png",
+    "static/media/grey.png": "/cats-food/static/media/grey.05236190.png",
+    "static/media/red.png": "/cats-food/static/media/red.20195368.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc5dc408.js",
+    "static/js/2.05dee26e.chunk.js",
+    "static/css/main.1b38fef1.chunk.css",
+    "static/js/main.49855743.chunk.js"
+  ]
+}
